@@ -1,8 +1,4 @@
-name: 4. Build xDrip4iOS
-run-name: Build xDrip4iOS (${{ github.ref_name }})
-on:
-  workflow_dispatch:
-  
+
   ## Remove the "#" sign from the beginning of the line below to get automated builds on push (code changes in your repository)
   #push:
   
